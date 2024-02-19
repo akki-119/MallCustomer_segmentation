@@ -22,8 +22,9 @@
 ![CLUSTERS](clustering_bivaraiate.png)
 
 - Target group would be cluster 3 which has a high spending score and high income.
-- 60 percent of cluster 3 shoppers are women.
+- 54 percent of cluster 3 shoppers are women while 46 percent are men.
 - We should look for ways to attract these customers using a marketing campaign targeting popular items in this cluster.
-- Cluster 2 presents an interesting opportunity to market to the customers for sales event on popular items.
+- Cluster 4 presents an interesting opportunity to market to the customers.
+- 60 percent of cluster 4 shoppers are women with the average age of around 25. Thus, the marketing team can target these customers with price cuts on products that are popular among this age group.
 
 **END OF DOCUMENT**
