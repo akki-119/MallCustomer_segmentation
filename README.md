@@ -21,8 +21,8 @@
 
 ![CLUSTERS](clustering_bivaraiate.png)
 
-- Target group would be cluster 1 which has a high spending score and  high income.
-- 60 percent of cluster 1 shoppers are women.
+- Target group would be cluster 3 which has a high spending score and high income.
+- 60 percent of cluster 3 shoppers are women.
 - We should look for ways to attract these customers using a marketing campaign targeting popular items in this cluster.
 - Cluster 2 presents an interesting opportunity to market to the customers for sales event on popular items.
 
